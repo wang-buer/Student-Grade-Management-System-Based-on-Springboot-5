@@ -1,10 +1,6 @@
 # 基于springboot的学生成绩管理系统5
 
-## 获取方式
 
-扫描下方，回复关键词  ：**成绩** ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -36,44 +32,52 @@
 
 ### 4.1 登录
 
-![登录](https://s2.loli.net/2023/10/08/THlQb2Ydvu1XMGk.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202312062145483.jpg)
 
 ### 4.2 学生模块
 
-![学生-课程信息](https://s2.loli.net/2023/10/08/15sFgRWcPbyruel.jpg)
+![学生-个人后台功能](https://www.codeshop.fun/Typora-Images/202312062146645.jpg)
 
-![学生-课程详情](https://s2.loli.net/2023/10/08/q74M1ILO5Gh8BsV.jpg)
+![学生-公告信息](https://www.codeshop.fun/Typora-Images/202312062146709.jpg)
 
-![学生-公告信息](https://s2.loli.net/2023/10/08/M1iVjEK3UrZQqR7.jpg)
+![学生-课程详情](https://www.codeshop.fun/Typora-Images/202312062146663.jpg)
 
-![学生-留言信息](https://s2.loli.net/2023/10/08/hyxu4lr9DYTAsbK.jpg)
+![学生-课程信息](https://www.codeshop.fun/Typora-Images/202312062146681.jpg)
 
-![学生-个人后台功能](https://s2.loli.net/2023/10/08/bedcFlkWK8BuR9E.jpg)
+![学生-留言信息](https://www.codeshop.fun/Typora-Images/202312062146699.jpg)
+
 
 ### 4.3 教师模块
 
-![教师-成绩登记1](https://s2.loli.net/2023/10/08/o8lGkyVpHuqTjtd.jpg)
+![教师-课程管理](https://www.codeshop.fun/Typora-Images/202312062146871.jpg)
 
-![教师-成绩登记2](https://s2.loli.net/2023/10/08/HAezujIBQ148Ywq.jpg)
+![教师-成绩登记1](https://www.codeshop.fun/Typora-Images/202312062146883.jpg)
 
-![教师-课程管理](https://s2.loli.net/2023/10/08/MD8ecNL6GXCrIUn.jpg)
+![教师-成绩登记2](https://www.codeshop.fun/Typora-Images/202312062146905.jpg)
 
 ### 4.4 管理员模块
 
-![管理员-学生管理](https://s2.loli.net/2023/10/08/NWRwXtBV9hQJLFK.jpg)
+![管理员-班级管理](https://www.codeshop.fun/Typora-Images/202312062146910.jpg)
 
-![管理员-教师管理](https://s2.loli.net/2023/10/08/ehsRgqzNW7mGLfB.jpg)
+![管理员-教师管理](https://www.codeshop.fun/Typora-Images/202312062146897.jpg)
 
-![管理员-专业管理](https://s2.loli.net/2023/10/08/T7IL8SNjR43Ge2g.jpg)
+![管理员-课程信息管理](https://www.codeshop.fun/Typora-Images/202312062146925.jpg)
 
-![管理员-班级管理](https://s2.loli.net/2023/10/08/J3GvMC5owyul2Ei.jpg)
+![管理员-留言管理‘](https://www.codeshop.fun/Typora-Images/202312062146953.jpg)
 
-![管理员-综合成绩管理](https://s2.loli.net/2023/10/08/fUOP7GQ9uK4IJYC.jpg)
+![管理员-学生管理](https://www.codeshop.fun/Typora-Images/202312062146970.jpg)
 
-![管理员-课程信息管理](https://s2.loli.net/2023/10/08/th3AmKcWvCT7O4p.jpg)
+![管理员-专业管理](https://www.codeshop.fun/Typora-Images/202312062146941.jpg)
 
-![管理员-留言管理‘](https://s2.loli.net/2023/10/08/nDtYB1seHvqOMhZ.jpg)
+![管理员-综合成绩管理](https://www.codeshop.fun/Typora-Images/202312062146517.jpg)
 
 ### 4.5 文档目录
 
-![文档目录](https://s2.loli.net/2023/10/08/PauGT74hOkVI8c2.jpg)
+![文档目录](https://www.codeshop.fun/Typora-Images/202312062146148.jpg)
+
+
+## 获取方式
+
+下方扫一扫关注后，后台回复关键词：**成绩**，查看导入教程视频、sql脚本和源码等
+
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
